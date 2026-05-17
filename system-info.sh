@@ -17,3 +17,12 @@ echo ""
 
 echo "Linux Version:"
 uname -a
+echo ""
+
+echo "Hostname:"
+hostname
+
+echo ""
+
+echo "System Uptime:"
+uptime
